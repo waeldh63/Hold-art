@@ -121,7 +121,7 @@ function App() {
           />
         </a>
       </div>
-      <div 
+      <div   
         style={{
           marginTop: window.innerWidth <= 768 ? width * -0.01 : 0,
           display: "flex", // Enables Flexbox
