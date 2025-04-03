@@ -76,8 +76,8 @@ function App() {
             }}
           >
             <a
-              href="Info@holdart-trading.com"
-              style={{
+  href="mailto:Info@holdart-trading.com"
+  style={{
                 color: "#fff",
                 textDecoration: "none", // Removes default underline
               }}
