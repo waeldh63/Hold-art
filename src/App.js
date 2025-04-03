@@ -161,7 +161,7 @@ function App() {
             color: "#14223b",
             letterSpacing: -0.34,
             lineHeight:
-              window.innerWidth <= 768 ? 0.003 * height : height * 0.00125,
+              window.innerWidth <= 768 ? 0.003 * height : height * 0.002,
           }}
         >
           Holdart Trading - FZCO is a forward-thinking holding company,<br></br>
